@@ -1,5 +1,5 @@
 # ACLnet_Pytorch
-It's a Pytorch implementation of [**ACLnet**](https://github.com/wenguanwang/DHF1K)
+It's a Pytorch implementation of [**ACLnet**](https://github.com/wenguanwang/DHF1K), one sample from the DHF1K dataset is includede in this Repo.
 ## Quick start
     pip install requirements.txt
 ## Train
