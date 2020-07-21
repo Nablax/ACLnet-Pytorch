@@ -1,0 +1,6 @@
+numpy
+imageio
+scipy
+pytorch
+torchvision
+pillow
